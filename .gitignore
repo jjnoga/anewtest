@@ -1,28 +1,24 @@
-/ClientThread.class
-/ClientWindow.class
-/TriviaClient.class
-/TriviaServer.class
-/MainServer.class
-/UDPThread.class
-/Client.class
-/Server.class
-/UDPMessage.class
-/ClientHandler.class
-/ClientWindow$TimerCode.class
-/TriviaGameClient.class
-/TriviaGameServer.class
-/TriviaGameServer$HeartbeatTask.class
-/TriviaGameServer$ResponseTimeoutTask.class
-/MultiThreadedServer.class
-/ClientIDGenerator.class
-/ClientWindow$1.class
-/Question.class
-/UDPThread$ClientBuzz.class
-/ClientBuzz.class
-/SimpleTCPClient.class
-/SimpleTCPServer.class
-/UDPClient.class
-/UDPServer.class
-/QuestionLoader.class
-/Problem.class
-/bin/
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
