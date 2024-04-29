@@ -1,0 +1,7 @@
+Question: Who painted the Mona Lisa?
+A. Leonardo da Vinci
+B. Pablo Picasso
+C. Vincent van Gogh
+D. Michelangelo
+A
+Correct: A

@@ -1,0 +1,7 @@
+Question: Who wrote 'The Great Gatsby'?
+A. F. Scott Fitzgerald
+B. Ernest Hemingway
+C. J. D. Salinger
+D. William Faulkner
+A
+Correct: A

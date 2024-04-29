@@ -1,0 +1,7 @@
+Question: Who painted 'Starry Night'?
+A. Vincent van Gogh
+B. Leonardo da Vinci
+C. Claude Monet
+D. Pablo Picasso
+A
+Correct: A

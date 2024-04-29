@@ -1,0 +1,7 @@
+Question: Who discovered penicillin?
+A. Alexander Fleming
+B. Louis Pasteur
+C. Marie Curie
+D. Dmitri Mendeleev
+A
+Correct: A

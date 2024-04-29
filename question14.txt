@@ -1,0 +1,7 @@
+Question: What is the chemical symbol for carbon?
+A. C
+B. Co
+C. Ca
+D. Cr
+A
+Correct: A

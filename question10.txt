@@ -1,0 +1,7 @@
+Question: Who wrote the play 'Hamlet'?
+A. William Shakespeare
+B. Charles Dickens
+C. Jane Austen
+D. Mark Twain
+A
+Correct: A

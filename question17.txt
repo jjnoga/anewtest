@@ -1,0 +1,7 @@
+Question: What is the chemical symbol for sodium?
+A. Sn
+B. So
+C. Na
+D. Sa
+C
+Correct: C

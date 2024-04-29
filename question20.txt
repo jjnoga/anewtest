@@ -1,0 +1,7 @@
+Question: What is the chemical symbol for silver?
+A. Sv
+B. Si
+C. Ag
+D. Au
+C
+Correct: C

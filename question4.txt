@@ -1,0 +1,7 @@
+Question: What is the chemical symbol for water?
+A. Wo
+B. H2O
+C. Co
+D. NaCl
+B
+Correct: B

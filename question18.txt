@@ -1,0 +1,7 @@
+Question: What is the smallest bone in the human body?
+A. Femur
+B. Tibia
+C. Stapes
+D. Humerus
+C
+Correct: C

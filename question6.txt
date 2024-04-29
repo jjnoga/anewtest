@@ -1,0 +1,7 @@
+Question: What is the largest mammal in the world?
+A. Elephant
+B. Blue Whale
+C. Giraffe
+D. Hippopotamus
+B
+Correct: B

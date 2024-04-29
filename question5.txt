@@ -1,0 +1,7 @@
+Question: Which planet is known as the Red Planet?
+A. Venus
+B. Mars
+C. Jupiter
+D. Saturn
+B
+Correct: B

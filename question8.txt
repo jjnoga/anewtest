@@ -1,0 +1,7 @@
+Question: What is the chemical symbol for gold?
+A. Go
+B. Ag
+C. Au
+D. Pt
+C
+Correct: C
